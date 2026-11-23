@@ -3,7 +3,7 @@
 
 ## 1. Project Overview
 
-This research evaluates the performance of machine learning models in predicting seasonal and extreme rainfall in the northern part of Rwanda. The study aims to explore rainfall patterns, identify rainfall variability and extreme rainfall events, and assess the predictive capabilities of selected machine learning algorithms.
+This research evaluates the performance of the selected machine learning models in predicting seasonal and extreme rainfall in the northern part of Rwanda. The study aims to explore rainfall patterns, identify rainfall variability and extreme rainfall events, and assess the predictive capabilities of selected machine learning algorithms.
 
 The research uses historical rainfall data obtained from Meteo Rwanda and applies supervised machine learning techniques to classify rainfall patterns and distinguish extreme from non-extreme rainfall conditions.
 
