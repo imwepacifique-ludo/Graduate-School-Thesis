@@ -85,7 +85,7 @@ This repository is part of an ongoing Master's research project. Code, notebooks
 ## 12. Author
 Ishimwe Pacifique
 
-**Research Topic:** Evaluating the Performance of Machine Learning Models in Predicting Seasonal and Extreme Rainfall in the Northern Part of Rwanda.
+**Research Topic:** Evaluating the Performance of the selected Machine Learning Models in Predicting Seasonal and Extreme Rainfall in the Northern Part of Rwanda.
 
 ---
 
